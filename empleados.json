@@ -8,5 +8,10 @@
         "nombre":"Maria",
         "apellido": "Dolores",
         "sueldo": 500000
+    },
+    {
+        "nombre":"Diego",
+        "apellido": "Caro",
+        "sueldo": 800000
     }
 ]
